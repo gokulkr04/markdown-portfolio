@@ -1,1 +1,2 @@
-Replace this with a list of your favorite things.
+* My hobbies are gaming, coding, travelling
+* pursing my  BTECH degree.
